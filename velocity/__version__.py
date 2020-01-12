@@ -1,0 +1,8 @@
+__title__ = 'velocity'
+__description__ = 'DNS caching for humans'
+__url__ = 'https://github.com/s0md3v/velocity'
+__version__ = '0.0.1'
+__author__ = 'Somdev Sangwan'
+__author_email__ = 's0md3v@gmail.com'
+__license__ = 'GPL v3'
+__copyright__ = 'Copyright 2020 Somdev Sangwan'
