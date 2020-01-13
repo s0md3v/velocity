@@ -14,14 +14,14 @@
 Velocity is an elegant DNS caching library for Python. It intercepts all the DNS/Protocol resolution calls and caches them.
 That's it, everything that makes network connections gets a performance boost.
 
-Liked the project? [Buy me a coffee.](https://github.com/s0md3v/velocity/new/master?readme=1#liked-the-project)
+Liked the project? [Buy me a coffee.](https://github.com/s0md3v/velocity#liked-the-project)
 
 ## Documentation
-- [Installation](https://github.com/s0md3v/velocity/new/master?readme=1#installation)
-- [Getting started](https://github.com/s0md3v/velocity/new/master?readme=1#getting-started)
-- [Managing local cache](https://github.com/s0md3v/velocity/new/master?readme=1#managing-local-cache)
-- [Manually caching hostnames](https://github.com/s0md3v/velocity/new/master?readme=1#manually-caching-hostnames)
-- [Accessing cache databases](https://github.com/s0md3v/velocity/new/master?readme=1#accessing-cache-databases)
+- [Installation](https://github.com/s0md3v/velocity#installation)
+- [Getting started](https://github.com/s0md3v/velocity#getting-started)
+- [Managing local cache](https://github.com/s0md3v/velocity#managing-local-cache)
+- [Manually caching hostnames](https://github.com/s0md3v/velocity#manually-caching-hostnames)
+- [Accessing cache databases](https://github.com/s0md3v/velocity#accessing-database)
 
 #### Installation
 The recommended way to install **velocity** is by using pip as follows:
