@@ -14,8 +14,6 @@
 Velocity is an elegant DNS caching library for Python. It intercepts all the DNS/Protocol resolution calls and caches them.
 That's it, everything that makes network connections gets a performance boost.
 
-Liked the project? [Buy me a coffee.](https://github.com/s0md3v/velocity#liked-the-project)
-
 ## Documentation
 - [Installation](https://github.com/s0md3v/velocity#installation)
 - [Getting started](https://github.com/s0md3v/velocity#getting-started)
@@ -78,9 +76,3 @@ Pull requests that do not imrpove *velocity* as a program will not be accepted. 
 pep8 styled code structure etc.
 
 Licensed under the GPLv3, see [LICENSE](https://github.com/s0md3v/velocity/blob/master/LICENSE) for more information.
-
-### Liked the project?
-You can support the developer by leaving a tip.
-
-- [Paypal](https://paypal.me/s0md3v)
-- [Patreon](https://www.patreon.com/s0md3v)
